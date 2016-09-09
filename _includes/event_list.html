@@ -2,7 +2,7 @@
 
 <script><!--
 // test: var url = "/training/events.json";
-var url = "http://api.doorkeeper.jp/groups/coderdojo-suginami/events.json?callback=?";
+var url = "https://api.doorkeeper.jp/groups/coderdojo-suginami/events.json?callback=?";
 $.getJSON(url, function(data) {
     if (data.length == 0) {
 	$("#event_list").append("<li>予定はありません</li>");
