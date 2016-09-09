@@ -2,7 +2,7 @@
 layout: page
 group: navigation
 title: <span class="glyphicon glyphicon-eye-open" />メンターについて
-order: 2
+order: 3
 ---
 
 {% comment %}

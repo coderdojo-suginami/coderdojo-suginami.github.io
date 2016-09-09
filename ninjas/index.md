@@ -2,7 +2,7 @@
 layout: page
 group: navigation
 title: <span class="glyphicon glyphicon-user" />ニンジャについて
-order: 1
+order: 2
 ---
 
 <img src="/images/ninja_syuriken_man.png" />

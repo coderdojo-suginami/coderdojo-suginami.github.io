@@ -2,7 +2,7 @@
 layout: page
 group: navigation
 title: <span class="glyphicon glyphicon-heart-empty" />ご支援のお願い
-order: 3
+order: 4
 ---
 
 <img src="/images/hero_man.png" />
