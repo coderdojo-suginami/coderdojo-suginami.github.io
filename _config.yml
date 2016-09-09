@@ -25,3 +25,4 @@ kramdown:
 gems:
   - jekyll-sitemap
 
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile"]
