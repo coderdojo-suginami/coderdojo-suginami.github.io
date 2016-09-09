@@ -14,5 +14,14 @@ url: "http://coderdojo-suginami.github.io" # the base hostname & protocol for yo
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+permalink: /blog/:year/:month/:day/
+timezone: Asia/Tokyo
+
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+
+gems:
+  - jekyll-sitemap
+
