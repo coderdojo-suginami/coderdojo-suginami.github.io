@@ -1,0 +1,29 @@
+<div id="events"><ul id="event_list"></ul></div>
+
+<script><!--
+// test: var url = "/training/events.json";
+var url = "http://api.doorkeeper.jp/groups/coderdojo-suginami/events.json?callback=?";
+$.getJSON(url, function(data) {
+    if (data.length == 0) {
+	$("#event_list").append("<li>予定はありません</li>");
+	return;
+    }
+    $.each(data, function(idx, ev) {
+	// title, public_url, address, starts_at, venue_name
+	var start = new Date(ev.event.starts_at);
+	// var ends = new Date(ev.event.ends_at);
+
+	var str = "<li><p>";
+	str += '<a target="_blank" href="' + ev.event.public_url + '">';
+	str += ev.event.title;
+	str += "</a>";
+	str += " " + start.getFullYear() + "-"
+            + (start.getMonth() + 1) + "-"
+            + start.getDate();
+	str += "</p></li>";
+
+	$("#event_list").append(str);
+    });
+});
+//-->
+</script>
