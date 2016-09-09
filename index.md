@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+<style><!--
+.jumbotron{
+    background: url("/images/bg_natural_sougen.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+//-->
+</style>
 
 <div class="jumbotron text-center">
   <h1>コーダー道場すぎなみ<br />へようこそ！</h1>
