@@ -12,5 +12,3 @@ order: 4
 ## 支援の方法
 
 TBD
-
-{% include sponsors.md %}

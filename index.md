@@ -20,23 +20,29 @@ layout: default
 
 
 <div class="row">
-<div class="col-md-12">
+  <div class="col-md-12">
     <h1>次回開催</h1>
 	{% include event_list.html %}
   </div>
 
   <div class="col-md-4">
     <h2><span class="glyphicon glyphicon-user" />ニンジャ</h2>
-	<p>...</p>
+	<p>TBD<a href="/ninjas/"><span class="glyphicon glyphicon-share-alt" /></a></p>
   </div>
   <div class="col-md-4">
     <h2><span class="glyphicon glyphicon-eye-open" />メンター</h2>
-	<p>...</p>
+	<p>TBD<a href="/ninjas/"><span class="glyphicon glyphicon-share-alt" /></a></p>
   </div>
   <div class="col-md-4">
     <h2><span class="glyphicon glyphicon-heart-empty" />支援のお願い</h2>
-	<p>...</p>
+	<p>TBD<a href="/ninjas/"><span class="glyphicon glyphicon-share-alt" /></a></p>
+  </div>
+
+  <div class="col-md-12">
+    <h2>関連リンク</h2>
+	<ul>
+	<li><a href="https://zen.coderdojo.com/dojo/jp/suginami-tokyo/suginami">CoderDojo suginami</a></li>
+	<li><a href="https://coderdojo-suginami.doorkeeper.jp">Doorkeeper（参加申し込み受付）</a></li>
+	</ul>
   </div>
 </div>
-
-{% include sponsors.md %}
