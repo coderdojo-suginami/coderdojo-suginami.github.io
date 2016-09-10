@@ -38,7 +38,15 @@ http://www.slideshare.net/togazo/dojo1150528/12
 {% endfor %}
 </div>
 
+<div class="alert alert-danger" role="alert">
 ※メンターは随時募集しておりますが、既存のメンターからの推薦が必要です。
+</div>
+
+<div class="alert alert-info" role="alert">
+メンター情報を更新するには、
+<tt>_data/mentors.yml</tt>を修正してください。
+画像ファイルは<tt>images</tt>に入れてください。
+</div>
 
 ## メンタリングの指針
 
@@ -49,7 +57,11 @@ http://www.slideshare.net/togazo/dojo1150528/12
 * 技術そのものよりも、技術を通じて何かを学んでもらえるようにしましょう。
 * 後学のために、うまくいったパターンをまとめておきましょう。
 
-## 教材の選定
+## メンターの連絡方法
+
+* とりあえずは、[Facebookグループ](https://www.facebook.com/groups/coderdojosuginamimentors/)とGitHubの[issues](https://github.com/coderdojo-suginami/coderdojo-suginami.github.io/issues/)でやりとりします。Slackのほうがいいかな？
+
+## 教材の選定 and/or 制作
 * 何かいい教材があれば、情報共有しましょう。
   * [バッジ](https://zen.coderdojo.com/badges)をあげられる教材カードを先に翻訳するといいかも？
 
