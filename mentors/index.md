@@ -25,24 +25,17 @@ http://www.slideshare.net/togazo/dojo1150528/12
 ## メンターの紹介
 
 <div class="row">
+{% for m in site.data.mentors %}
   <div class="col-md-4">
     <div class="thumbnail">
-      <img src="/images/araratakeshi.jpg" alt="araratakeshi">
+      <img src="/images/{{ m.photo }}" alt="{{ m.id }}">
       <div class="caption">
-        <h2>新井 剛（あらい たけし）@araratakeshi</h2>
-		<p>株式会社ヴァル研究所（開発部長）。「経路探索 駅すぱあと」の会社の中の人。社内にカイゼン・アジャイルを導入・推進しているチェンジエージェント。</p>
+        <h2>{{ m.name }}（{{ m.kana }}）{{ m.id }}</h2>
+        <p>{{ m.profile }}</p>
       </div>
     </div>
   </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <img src="/images/tatsuoSakurai.jpg" alt="tasuoSakurai">
-      <div class="caption">
-        <h2>櫻井 達生（さくらい たつお）@tatsuoSakurai</h2>
-		<p>株式会社万葉取締役。1979年岩手県生まれ。2009年万葉に入社。Ruby on Rails による受託開発に携わりながらRuby、JavaScriptなどに関するコミュニティ活動を精力的に行う。</p>
-      </div>
-    </div>
-  </div>
+{% endfor %}
 </div>
 
 ※メンターは随時募集しておりますが、既存のメンターからの推薦が必要です。
