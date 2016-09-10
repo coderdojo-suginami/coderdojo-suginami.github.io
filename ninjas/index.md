@@ -5,7 +5,7 @@ title: <span class="glyphicon glyphicon-user" />ニンジャについて
 order: 2
 ---
 
-<img src="/images/ninja_syuriken_man.png" />
+<img src="/images/ninja_syuriken_man.png" alt="ninja_syuriken_man" />
 
 ## 対象年齢
 

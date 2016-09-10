@@ -10,7 +10,7 @@ order: 3
 http://www.slideshare.net/togazo/dojo1150528/12
 {% endcomment %}
 
-<img src="/images/teacher_woman.png" />
+<img src="/images/teacher_woman.png" alt="teacher_woman" />
 
 <!-- http://kata.coderdojo.com/wiki/Mentors_and_Volunteers_Information -->
 
