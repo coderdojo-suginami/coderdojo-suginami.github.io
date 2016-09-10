@@ -10,3 +10,14 @@
   photo: "/images/tatsuoSakurai.jpg"
   profile: "株式会社万葉取締役。1979年岩手県生まれ。2009年万葉に入社。Ruby on Rails による受託開発に携わりながらRuby、JavaScriptなどに関するコミュニティ活動を精力的に行う。"
 
+- name: "安井 力"
+  kana: "やすい つとむ"
+  id: "@yattom"
+  photo: "/images/yattom.jpg"
+  profile: "アジャイルコーチ、認定スクラムマスター。訳書に『アジャイルな見積りと計画づくり』（マイナビ）、『Fearless Change』（丸善出版）など。好きなプラクティスはテスト駆動開発とふりかえり。"
+
+- name: "Maiko Suzuki"
+  kana: "ずずき まいこ"
+  id: "suzukum"
+  photo: "/images/suzukum.jpg"
+  profile: "多趣味というか飽きっぽいです。あまり役立つことは発言しないです。ガジェットと猫が大好きです。昔はTVゲームが大好きでしたが、そもそもTVゲームではなくシステム、UI、ハードが好きだということに気が付きました。"

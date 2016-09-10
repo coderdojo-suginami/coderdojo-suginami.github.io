@@ -24,9 +24,9 @@ http://www.slideshare.net/togazo/dojo1150528/12
 
 ## メンターの紹介
 
-<div class="row">
+<div class="row row-eq-height">
 {% for m in site.data.mentors %}
-  <div class="col-md-4">
+  <div class="col-md-3">
     <div class="thumbnail">
       <img src="{{ m.photo }}" alt="{{ m.id }}">
       <div class="caption">
