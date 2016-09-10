@@ -28,7 +28,7 @@ http://www.slideshare.net/togazo/dojo1150528/12
 {% for m in site.data.mentors %}
   <div class="col-md-4">
     <div class="thumbnail">
-      <img src="/images/{{ m.photo }}" alt="{{ m.id }}">
+      <img src="{{ m.photo }}" alt="{{ m.id }}">
       <div class="caption">
         <h2>{{ m.name }}（{{ m.kana }}）{{ m.id }}</h2>
         <p>{{ m.profile }}</p>

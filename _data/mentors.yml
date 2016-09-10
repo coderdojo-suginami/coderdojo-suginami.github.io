@@ -1,12 +1,12 @@
 - name: "新井 剛"
   kana: "あらい たけし"
   id: "@araratakeshi"
-  photo: "araratakeshi.jpg"
+  photo: "/images/araratakeshi.jpg"
   profile: "株式会社ヴァル研究所（開発部長）。「経路探索 駅すぱあと」の会社の中の人。社内にカイゼン・アジャイルを導入・推進しているチェンジエージェント。"
 
 - name: "櫻井 達生"
   kana: "さくらい たつお"
   id: "@tatsuoSakurai"
-  photo: "tatsuoSakurai.jpg"
+  photo: "/images/tatsuoSakurai.jpg"
   profile: "株式会社万葉取締役。1979年岩手県生まれ。2009年万葉に入社。Ruby on Rails による受託開発に携わりながらRuby、JavaScriptなどに関するコミュニティ活動を精力的に行う。"
 
