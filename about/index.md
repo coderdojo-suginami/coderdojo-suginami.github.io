@@ -87,7 +87,7 @@ TBD（杉並区の地域区民センターを使う予定です）
   <div class="panel-body">自己紹介<br />アイスブレイク（<a href="http://kata.coderdojo.com/wiki/Warm_up_Games">Warm up Games</a>）</div>
 </div></div>
 <div class="col-md-4"><div class="panel panel-success">
-  <div class="panel-heading">2. 道場（50分間）✕ 2〜3回</div>
+  <div class="panel-heading">2. 稽古（50分間）✕ 2〜3回</div>
   <div class="panel-body">プログラミング<br />休憩（+10分間）</div>
 </div></div>
 <div class="col-md-4"><div class="panel panel-success">
