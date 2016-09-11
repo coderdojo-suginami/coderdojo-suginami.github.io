@@ -39,3 +39,8 @@ task :post do
     post.puts "---"
   end
 end # task :post
+
+desc "jekyll server"
+task :s do
+  sh "bundle exec jekyll s"
+end
