@@ -21,6 +21,32 @@ order: 1
   {% endfor %}
 </div>
 
+# 道場の場所
+
+## メイン道場
+
+東京都杉並区高円寺北2-3-17 高円寺NKビル <br />
+株式会社ヴァル研究所 <br />
+JR高円寺駅（北口下車 徒歩3分）
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.8207470244547!2d139.64931011525948!3d35.70602848018848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f287985dcff9%3A0x47f513f12c5d370e!2z44CSMTY2LTAwMDIg5p2x5Lqs6YO95p2J5Lim5Yy66auY5YaG5a-65YyX77yS5LiB55uu77yT4oiS77yR77yXIO-8iOagqu-8ieODtOOCoeODq-eglOeptuaJgA!5e0!3m2!1sja!2sjp!4v1473602343638" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+## サブ会場
+
+TBD（杉並区の地域区民センターを使う予定です）
+
+### 参考
+
+* [公衆無線LANサービスを利用できる区の施設を教えてください。](http://www.city.suginami.tokyo.jp/faq/etc/etc/1004194.html)
+
+> 本庁舎1階、各図書館、各地域区民センター、四宮区民集会所、久我山会館、杉並公会堂、座・高円寺（杉並芸術会館）です。
+
+* [公衆無線LANサービスの事業者を教えてください。](http://www.city.suginami.tokyo.jp/faq/etc/etc/1004195.html)
+
+> KDDI：本庁舎1階、各図書館、各地域区民センター、杉並公会堂、座・高円寺（芸術会館）、区立小中学校等（震災救援所） <br />
+> ソフトバンク：高円寺地域区民センター、四宮区民集会所、久我山会館 <br />
+> フリースポット：本庁舎1階、中央図書館2階
+
 # 標準的な流れ
 
 <div class="row">
