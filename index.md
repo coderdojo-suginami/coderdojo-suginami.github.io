@@ -13,9 +13,10 @@ layout: default
 <div class="jumbotron text-center">
   <h1>コーダー道場すぎなみ<br />へようこそ！</h1>
   <p>
-  杉並区にある子どもたちのためのプログラミングクラブです。<br />
+  杉並区にある子どもたちのための <br />
+  プログラミングコミュニティです。<br />
   ボランティアにより、非営利に運営されています。</p>
-  <p><a class="btn btn-primary btn-lg" href="/about/" role="button">もっとくわしく知りたい &raquo;</a></p>
+  <p><a class="btn btn-primary btn-lg" href="https://coderdojo-suginami.doorkeeper.jp/member/new" role="button">コミュニティに参加する &raquo;</a></p>
 </div>
 
 
@@ -31,11 +32,11 @@ layout: default
   </div>
   <div class="col-md-4">
     <h2><span class="glyphicon glyphicon-eye-open" />メンター</h2>
-	<p>TBD<a href="/ninjas/"><span class="glyphicon glyphicon-share-alt" /></a></p>
+	<p>TBD<a href="/mentors/"><span class="glyphicon glyphicon-share-alt" /></a></p>
   </div>
   <div class="col-md-4">
     <h2><span class="glyphicon glyphicon-heart-empty" />支援のお願い</h2>
-	<p>TBD<a href="/ninjas/"><span class="glyphicon glyphicon-share-alt" /></a></p>
+	<p>TBD<a href="/sponsorship/"><span class="glyphicon glyphicon-share-alt" /></a></p>
   </div>
 
   <div class="col-md-12">
