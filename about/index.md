@@ -47,6 +47,38 @@ TBD（杉並区の地域区民センターを使う予定です）
 > ソフトバンク：高円寺地域区民センター、四宮区民集会所、久我山会館 <br />
 > フリースポット：本庁舎1階、中央図書館2階
 
+# 道場の指針
+
+## <span class="glyphicon glyphicon-heart" />価値
+
+* 交流：みんなと一緒に作業します。
+* 奉仕：自発的に他人のために尽くします。
+* 勇気：失敗することを恐れません。
+* 尊敬：他人に対して敬意を払います。
+* 興奮：自ら楽しむことを忘れません。
+
+## <span class="glyphicon glyphicon-hand-right" />原則
+
+価値にもとづき、実践を通じて、以下の変数を高めることを目指します。
+
+* 安全性、人間性、理解度、注目度、満足度、多様性、相互利益性、責任感、達成感、自己肯定感
+
+{% comment %}〜性、〜感、〜度などがよい{% endcomment %}
+
+## <span class="glyphicon glyphicon-fire" />実践
+
+* 手を動かしながら考える
+* 3回調べてから質問する
+* Show & Tell（a.k.a. 成果発表会）
+* ベイビーステップで進む
+* やりたいことリストを作る（プロダクトバックログ）
+* 他の人のマネをする
+* 他の人にマネしてもらう
+* （随時追加予定）
+
+<span class="glyphicon glyphicon-chevron-right" />参考：[CoderDojo ECHO (English)](http://kata.coderdojo.com/wiki/ECHO)
+
+
 # 標準的な流れ
 
 <div class="row">
