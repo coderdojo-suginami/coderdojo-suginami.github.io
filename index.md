@@ -28,15 +28,15 @@ layout: default
 
   <div class="col-md-4">
     <h2><span class="glyphicon glyphicon-user" />ニンジャ</h2>
-	<p>TBD<a href="/ninjas/"><span class="glyphicon glyphicon-share-alt" /></a></p>
+	<p>コーダー道場では、参加者のことを「ニンジャ」と呼ぶのじゃ。<a href="/ninjas/"><span class="glyphicon glyphicon-share-alt" /></a></p>
   </div>
   <div class="col-md-4">
     <h2><span class="glyphicon glyphicon-eye-open" />メンター</h2>
-	<p>TBD<a href="/mentors/"><span class="glyphicon glyphicon-share-alt" /></a></p>
+	<p>ニンジャのガイド役となり、やりたいことや困っていることを支援します。<a href="/mentors/"><span class="glyphicon glyphicon-share-alt" /></a></p>
   </div>
   <div class="col-md-4">
     <h2><span class="glyphicon glyphicon-heart-empty" />支援のお願い</h2>
-	<p>TBD<a href="/sponsorship/"><span class="glyphicon glyphicon-share-alt" /></a></p>
+	<p>活動に賛同いただける個人や法人のみなさまには、ご支援をお願いしています。<a href="/sponsorship/"><span class="glyphicon glyphicon-share-alt" /></a></p>
   </div>
 
   <div class="col-md-12">
