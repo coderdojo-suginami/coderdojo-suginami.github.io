@@ -31,7 +31,7 @@ order: 2
 
 {% include event_list.html %}
 
-  <a class="doorkeeper-registration-widget" href="https://coderdojo-suginami.doorkeeper.jp/events/52036">開催通知を受け取る</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+  <p><a class="btn btn-primary btn-lg" href="https://coderdojo-suginami.doorkeeper.jp/member/new" role="button">コミュニティに参加する &raquo;</a></p>
 
 ## よくある質問
 
