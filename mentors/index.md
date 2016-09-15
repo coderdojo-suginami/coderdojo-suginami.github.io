@@ -22,9 +22,28 @@ http://www.slideshare.net/togazo/dojo1150528/12
 道場は1回数時間程度を予定しています。地域の子どもたちのために、みなさまの知識と経験をお貸しください。道場でのメンターの経験は、きっと大きな価値になるでしょう。逆に子どもたちから、いろいろと教えられることがあるくらいです！
 {% endcomment %}
 
+<div class="alert alert-danger" role="alert">
+※メンターは随時募集しておりますが、既存のメンターからの推薦が必要です。
+</div>
+
+
 ## メンターの紹介
 
-<div class="row row-eq-height">
+<div class="row">
+  {% for c in site.data.champions %}
+  <div class="col-md-6">
+    <div class="thumbnail">
+      <img src="{{ c.photo }}" alt="{{ c.name }}">
+      <div class="caption">
+        <h2>{{ c.name }}（{{ c.kana }}）{{ c.id }}</h2>
+        <p>{{ c.profile }}</p>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="row">
 {% for m in site.data.mentors %}
   <div class="col-md-4">
     <div class="thumbnail">
@@ -36,10 +55,6 @@ http://www.slideshare.net/togazo/dojo1150528/12
     </div>
   </div>
 {% endfor %}
-</div>
-
-<div class="alert alert-danger" role="alert">
-※メンターは随時募集しておりますが、既存のメンターからの推薦が必要です。
 </div>
 
 <div class="alert alert-info" role="alert">
@@ -57,7 +72,7 @@ http://www.slideshare.net/togazo/dojo1150528/12
 * 技術そのものよりも、技術を通じて何かを学んでもらえるようにしましょう。
 * 後学のために、うまくいったパターンをまとめておきましょう。
 
-## メンターの連絡方法
+## メンター同士の連絡方法
 
 * とりあえずは、[Facebookグループ](https://www.facebook.com/groups/coderdojosuginamimentors/)とGitHubの[issues](https://github.com/coderdojo-suginami/coderdojo-suginami.github.io/issues/)でやりとりします。Slackのほうがいいかな？
 
