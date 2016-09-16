@@ -27,3 +27,9 @@
   id: "@kohsei"
   photo: "/images/iwakiri.jpg"
   profile: "翔泳社勤務。岩手県釜石市出身東京在住。釜石を出てから、ずっと旅をしているような気がしてます。東京内の引越し歴8回。仲間とモノを作り上げていくのが好き。音楽が好き。お酒が好き。旅が好き。"
+
+- name: "原 俊太郎"
+  kana: "はら しゅんたろう"
+  id: "@harashunta"
+  photo: "/images/hara.png"
+  profile: "日系SIer勤務。西荻生まれ西荻育ち。文系でしたがエンジニアをしています、5年目29歳になりました。仕事では主にAWS・Azureといったインフラを担当しています。スポーツが好きです。Less is More."
