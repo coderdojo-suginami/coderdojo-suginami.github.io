@@ -15,6 +15,7 @@ layout: default
   <p>
   杉並区にある子どもたちのための <br />
   プログラミングコミュニティです。<br />
+  プログラミング教室ではなく「自主学習」を支援します。<br />
   ボランティアにより、非営利に運営されています。</p>
   <p><a class="btn btn-primary btn-lg" href="https://coderdojo-suginami.doorkeeper.jp/member/new" role="button">コミュニティに参加する &raquo;</a></p>
 </div>
