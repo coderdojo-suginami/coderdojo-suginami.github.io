@@ -1,7 +1,7 @@
 ---
 layout: page
 group: navigation
-title: <span class="glyphicon glyphicon-eye-open" />メンターについて
+title: <span class="glyphicon glyphicon-eye-open" />メンター
 order: 3
 ---
 
@@ -65,16 +65,16 @@ http://www.slideshare.net/togazo/dojo1150528/12
 
 ## メンタリングの指針
 
-* 参加者が中心であり、参加者が楽しめるように工夫しましょう。
-* 参加者が自分のプロジェクトを完成できるように支援しましょう。
-* 「3回調べてわからなかったら質問して！」の態度で見守りましょう。
-* 参加者同士で教え合えるように仕向けましょう。
-* 技術そのものよりも、技術を通じて何かを学んでもらえるようにしましょう。
-* 後学のために、うまくいったパターンをまとめておきましょう。
+* ニンジャが中心であり、ニンジャが楽しめるように工夫します。
+* ニンジャが自分のプロジェクトを完成できるように支援します。
+* 「3回調べてわからなかったら質問して！」の態度でニンジャを見守ります。
+* ニンジャ同士で教え合えるように仕向けます。
+* ニンジャには、技術そのものよりも、技術を通じて何かを学んでもらえるようにします。
+* あとで役に立つように、うまくいったパターンをまとめて、共有します。
 
 ## メンター同士の連絡方法
 
-* とりあえずは、[Facebookグループ](https://www.facebook.com/groups/coderdojosuginamimentors/)とGitHubの[issues](https://github.com/coderdojo-suginami/coderdojo-suginami.github.io/issues/)でやりとりします。Slackのほうがいいかな？
+* [Facebookグループ](https://www.facebook.com/groups/coderdojosuginamimentors/)とGitHubの[issues](https://github.com/coderdojo-suginami/coderdojo-suginami.github.io/issues/)でやりとりします（Slackのほうがいいかな？）
 
 ## 教材の選定 and/or 制作
 * 何かいい教材があれば、情報共有しましょう。
