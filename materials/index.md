@@ -38,6 +38,15 @@ title: 教材
 * 動くものを手軽に作りたいときは[Processing](https://processing.org/)がオススメです。
 * 新しいことをやってみたいときや、作りたいものがあるけどやり方がわからない場合は、メンターと相談してください。
 
+## 4. プログラミングに慣れてきたら
+
+* いろいろと自由にやってみてください。
+* 競技プログラミングにチャレンジするのもいいでしょう。
+  * [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)
+  * [AtCoder](https://atcoder.jp/)
+  * [yukicoder](http://yukicoder.me/)
+  * など
+
 ## その他教材一覧
 
 * [CoderDojo sushi](http://kata.coderdojo.com/wiki/Sushi) ※英語
