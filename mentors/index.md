@@ -60,7 +60,7 @@ http://www.slideshare.net/togazo/dojo1150528/12
 {% endif %}
   <div class="col-md-4">
     <div class="thumbnail">
-      <img src="{{ m.photo }}" alt="{{ m.id }}">
+      <img src="{{ m.photo }}" alt="{{ m.name }}">
       <div class="caption">
         <h2>{{ m.name }}（{{ m.kana }}）{{ m.id }}</h2>
         <p>{{ m.profile }}</p>
