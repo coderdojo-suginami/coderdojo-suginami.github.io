@@ -11,7 +11,7 @@ layout: default
 </style>
 
 <div class="jumbotron text-center">
-  <img src="/images/logo_namisuke.png" />
+  <img src="/images/logo_namisuke.png" alt="CoderDojo Suginami logo" />
   <p>
   杉並区にある子どもたちの <br />
   プログラミングコミュニティです。<br />
