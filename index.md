@@ -12,6 +12,7 @@ layout: default
 
 <div class="jumbotron text-center">
   <h1>コーダー道場すぎなみ<br />へようこそ！</h1>
+  <img src="/images/logo_namisuke.png" />
   <p>
   杉並区にある子どもたちの <br />
   プログラミングコミュニティです。<br />
