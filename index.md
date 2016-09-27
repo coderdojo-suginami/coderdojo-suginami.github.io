@@ -13,10 +13,11 @@ layout: default
 <div class="jumbotron text-center">
   <img src="/images/logo_namisuke.png" alt="CoderDojo Suginami logo" />
   <p>
-  杉並区にある子どもたちの <br />
-  プログラミングコミュニティです。<br />
-  プログラミング教室ではなく「自主学習」を支援します。<br />
-  ボランティアにより、非営利に運営されています。</p>
+  杉並区にある子どもたちのための <br />
+  プログラミング倶楽部です。<br />
+  参加費は無料。<br />
+  プログラミング教室ではなく「自主学習」を支援します。
+  </p>
   <p><a class="btn btn-primary btn-lg" href="https://coderdojo-suginami.doorkeeper.jp/member/new" role="button">コミュニティに参加する &raquo;</a></p>
 </div>
 
