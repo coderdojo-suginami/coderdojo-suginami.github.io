@@ -18,7 +18,6 @@ layout: default
   参加費は無料。<br />
   プログラミング教室ではなく「自主学習」を支援します。
   </p>
-  <p><a class="btn btn-primary btn-lg" href="https://coderdojo-suginami.doorkeeper.jp/member/new" role="button">コミュニティに参加する &raquo;</a></p>
 </div>
 
 <div class="row">

@@ -39,8 +39,6 @@ order: 2
 
 {% include event_list.html %}
 
-  <p><a class="btn btn-primary btn-lg" href="https://coderdojo-suginami.doorkeeper.jp/member/new" role="button">コミュニティに参加する &raquo;</a></p>
-
 ## 教材について
 
 使用する教材の指定はありませんが、[使えそうな教材を集めてみました](/materials)。レベルにあわせて選ぶといいでしょう。
