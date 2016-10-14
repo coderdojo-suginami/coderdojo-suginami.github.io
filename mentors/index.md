@@ -38,22 +38,12 @@ http://www.slideshare.net/togazo/dojo1150528/12
   {% endfor %}
 </div>
 
-<style><!--
-.row-eq-height {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-}
-//-->
-</style>
-
 {% for m in site.data.mentors %}
-{% assign colIndex = forloop.index | modulo:4  %}
+{% assign colIndex = forloop.index | modulo:2  %}
 {% if forloop.first or colIndex == 1 %}
 <div class="row row-eq-height">
 {% endif %}
-  <div class="col-md-4">
+  <div class="col-md-6">
     <div class="thumbnail">
       <img src="{{ m.photo }}" alt="{{ m.name }}">
       <div class="caption">
