@@ -22,11 +22,6 @@ http://www.slideshare.net/togazo/dojo1150528/12
 道場は1回数時間程度を予定しています。地域の子どもたちのために、みなさまの知識と経験をお貸しください。道場でのメンターの経験は、きっと大きな価値になるでしょう。逆に子どもたちから、いろいろと教えられることがあるくらいです！
 {% endcomment %}
 
-<div class="alert alert-danger" role="alert">
-※メンターになるには、既存のメンターからの推薦が必要です。
-</div>
-
-
 ## メンターの紹介
 
 <div class="row">
@@ -77,6 +72,11 @@ http://www.slideshare.net/togazo/dojo1150528/12
 <tt>_data/mentors.yml</tt>を修正してください。
 画像ファイルは<tt>images</tt>に入れてください。
 </div>
+
+<div class="alert alert-danger" role="alert">
+※メンターになるには、既存のメンターからの推薦が必要です。
+</div>
+
 
 ## メンタリングの指針
 
