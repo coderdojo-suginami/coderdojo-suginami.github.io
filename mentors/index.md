@@ -23,7 +23,7 @@ http://www.slideshare.net/togazo/dojo1150528/12
 {% endcomment %}
 
 <div class="alert alert-danger" role="alert">
-※メンターは随時募集しておりますが、既存のメンターからの推薦が必要です。
+※メンターになるには、既存のメンターからの推薦が必要です。
 </div>
 
 
