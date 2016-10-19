@@ -131,9 +131,3 @@ TBD（杉並区の地域区民センターを使う予定です）
 ## <span class="label label-primary"><span class="glyphicon glyphicon-ok" />CoderDojoすぎなみは、CoderDojoの活動に賛同しています</span>
 
 * CoderDojoについて知りたい方は、[CoderDojoのサイト](https://coderdojo.com/)をご覧ください。
-
-# 参考資料
-
-* [CoderDojoガイダンス（最新版）](http://www.slideshare.net/togazo/coderdojo-introduction-jp)
-* [Dojo運営・企画資料](http://www.slideshare.net/togazo/coder-dojo-201501)
-* [コーダー道場こだいら](http://coderdojo-kodaira.github.io/)
