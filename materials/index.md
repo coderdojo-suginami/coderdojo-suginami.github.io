@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 教材
+title: <span class="glyphicon glyphicon-book" /></a>教材
 ---
 
 * 基本的には「**自主学習**」となります。
@@ -56,3 +56,10 @@ CoderDojoすぎなみでは、アイスブレイクのときにアンプラグ�
 * [プログラミングで、自分だけのゲームをつくろう！プログラミングワークショップを開催してみよう](http://www.canvas.ws/p-ws/guidance.html)
 * [Google CS First Logo - link to home page Computer Science First
 Students: Try Now!](https://www.cs-first.com/en/home) ※英語
+
+
+## CoderDojoすぎなみオリジナル
+
+* TBD - 自己紹介シート
+* TBD - 名札シート
+* TBD - 発表シート
