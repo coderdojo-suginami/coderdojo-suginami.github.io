@@ -1,6 +1,8 @@
 ---
 layout: page
-title: <span class="glyphicon glyphicon-book" /></a>教材
+group: navigation
+title: <span class="glyphicon glyphicon-book" />教材
+order: 99
 ---
 
 * 基本的には「**自主学習**」となります。
