@@ -77,7 +77,7 @@ order: 2
 
 <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents06.jpg"></a></div>
 
-<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents07.jgp"></a></div>
+<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents07.jpg"></a></div>
 
 <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents08.jpg"></a></div>
 
