@@ -1,7 +1,7 @@
 ---
 layout: page
 group: navigation
-title: <span class="glyphicon glyphicon-heart-empty" />ご支援のお願い
+title: <span class="glyphicon glyphicon-heart-empty" />スポンサーの募集
 order: 4
 ---
 
