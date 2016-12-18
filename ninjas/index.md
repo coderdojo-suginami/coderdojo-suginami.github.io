@@ -46,3 +46,40 @@ order: 2
 ## 保護者の方へ
 
 * 12歳以下のお子様の場合には、保護者の同伴をお願いしております。
+
+## 参加者の感想（一部抜粋）
+
+<div class="row">
+   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja01.jpg"></a></div>
+   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja03.jpg"></a></div>
+   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja04.jpg"></a></div>
+   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja05.jpg"></a></div>
+   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja07.jpg"></a></div>
+   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja08.jpg"></a></div>
+   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja02.jpg"></a></div>
+   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja06.jpg"></a></div>
+</div>
+
+
+## 保護者の感想（一部抜粋）
+
+<div class="row">
+
+<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents01.jpg"></a></div>
+
+<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents02.jpg"></a></div>
+
+<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents03.jpg"></a></div>
+
+<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents04.jpg"></a></div>
+
+<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents05.jpg"></a></div>
+
+<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents06.jpg"></a></div>
+
+<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents07.jgp"></a></div>
+
+<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents08.jpg"></a></div>
+
+</div>
+
