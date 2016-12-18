@@ -1,3 +1,7 @@
+#
+# 画像ファイルはimagesに入れるか、GravatarのURLを使用してください。
+# できれば 113px に指定してもらいたいので、Gravatorを使ったほうが楽です。
+#
 - name: "新井 剛"
   kana: "あらい たけし"
   id: "@araratakeshi"
