@@ -13,7 +13,7 @@
 - name: "安井 力"
   kana: "やすい つとむ"
   id: "@yattom"
-  photo: "/images/yattom.jpg"
+  photo: "https://s.gravatar.com/avatar/acd2f6f7498ea41881e161e191aa7c02?s=113"
   profile: "アジャイルコーチ、認定スクラムマスター。訳書に『アジャイルな見積りと計画づくり』（マイナビ）、『Fearless Change』（丸善出版）など。好きなプラクティスはテスト駆動開発とふりかえり。"
 
 - name: "Maiko Suzuki"

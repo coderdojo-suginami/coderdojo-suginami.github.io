@@ -58,9 +58,8 @@ http://www.slideshare.net/togazo/dojo1150528/12
 {% endfor %}
 
 <div class="alert alert-info" role="alert">
-メンター情報を更新するには、
-<tt>_data/mentors.yml</tt>を修正してください。
-画像ファイルは<tt>images</tt>に入れてください。
+メンターの情報は<tt>_data/mentors.yml</tt>です。
+画像ファイルは<tt>images</tt>に入れるか、GravatarのURLを使用してください。
 </div>
 
 <div class="alert alert-danger" role="alert">
