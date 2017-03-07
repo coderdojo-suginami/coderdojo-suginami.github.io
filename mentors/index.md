@@ -16,7 +16,7 @@ http://www.slideshare.net/togazo/dojo1150528/12
 
 ## メンターとは？
 
-**メンター**とは、得意な技術分野と経験を持った個人のことです。CoderDojoにおいては、参加者のガイド役となり、プロジェクト作業を支援します。ただし、こちらから何かを教えるのではなく、質問されたことに答えたり、つまづいているところを少しだけ助けてあげるだけです。子どもたちが自分で学ぶ姿勢を大切にしたいと思っています！
+**メンター**とは、得意な技術分野と経験を持った個人のことです。CoderDojoにおいては、参加者のガイド役となり、プロジェクト作業を支援します。ただし、こちらから何かを教えるのではなく、質問されたことに答えたり、つまづいているところを少しだけ助けてあげたりするだけです。子どもたちが自分で学ぶ姿勢を大切にしたいと思っています！
 
 {% comment %}
 道場は1回数時間程度を予定しています。地域の子どもたちのために、みなさまの知識と経験をお貸しください。道場でのメンターの経験は、きっと大きな価値になるでしょう。逆に子どもたちから、いろいろと教えられることがあるくらいです！
@@ -57,11 +57,6 @@ http://www.slideshare.net/togazo/dojo1150528/12
 {% endif %}
 {% endfor %}
 
-<div class="alert alert-info" role="alert">
-メンターの情報は<tt>_data/mentors.yml</tt>です。
-画像ファイルは<tt>images</tt>に入れるか、GravatarのURLを使用してください。
-</div>
-
 <div class="alert alert-danger" role="alert">
 ※メンターになるには、既存のメンターからの推薦が必要です。
 </div>
@@ -72,13 +67,12 @@ http://www.slideshare.net/togazo/dojo1150528/12
 * ニンジャが中心であり、ニンジャが楽しめるように工夫します。
 * ニンジャが自分のプロジェクトを完成できるように支援します。
 * 「3回調べてわからなかったら質問して！」の態度でニンジャを見守ります。
-* ニンジャ同士で教え合えるように仕向けます。
 * ニンジャには、技術そのものよりも、技術を通じて何かを学んでもらえるようにします。
-* あとで役に立つように、うまくいったパターンをまとめて、共有します。
+* あとで役に立つように、うまくいったパターンをまとめて、メンター同士で共有します。
 
 ## メンター同士の連絡方法
 
-* [Facebookグループ](https://www.facebook.com/groups/coderdojosuginamimentors/)とGitHubの[issues](https://github.com/coderdojo-suginami/coderdojo-suginami.github.io/issues/)でやりとりします（Slackのほうがいいかな？）
+* [Facebookグループ](https://www.facebook.com/groups/coderdojosuginamimentors/)とGitHubの[issues](https://github.com/coderdojo-suginami/coderdojo-suginami.github.io/issues/)でやりとりします。
 
 ## 教材の選定 and/or 制作
 * 何かいい教材があれば、情報共有しましょう。
@@ -99,3 +93,8 @@ http://www.slideshare.net/togazo/dojo1150528/12
 > 9. 上記の内容に反する言動・行動を見かけたときには、ただちに主宰者に報告し、適切な対応を行います。
 
 なお、こちらは「[CoderDojo西宮/梅田メンター同意書](https://github.com/coderdojo-nishinomiya-umeda/document/blob/master/MentorAgreement.md)」を参考にして作成しました。
+
+
+## メンター情報の掲載について
+
+メンターの情報は<tt>_data/mentors.yml</tt>にあります。画像ファイルは<tt>images</tt>に入れるか、GravatarのURLを使用してください。

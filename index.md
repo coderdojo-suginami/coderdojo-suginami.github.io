@@ -27,8 +27,8 @@ layout: default
 
     <h2>関連リンク</h2>
 	<ul>
-	<li><a href="https://zen.coderdojo.com/dojo/jp/suginami-tokyo/suginami">CoderDojo suginami</a></li>
-	<li><a href="https://coderdojo-suginami.doorkeeper.jp">Doorkeeper（参加申し込み受付）</a></li>
+	<li><a href="https://coderdojo-suginami.doorkeeper.jp">Doorkeeper</a>（メンバー登録すると開催通知が届きます）</li>
+	<li><a href="https://zen.coderdojo.com/dojo/jp/suginami-tokyo/suginami">CoderDojo suginami</a>（CoderDojoすぎなみの紹介ページ）</li>
 	</ul>
   </div>
 
