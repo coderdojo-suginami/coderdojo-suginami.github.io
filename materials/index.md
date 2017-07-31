@@ -40,6 +40,7 @@ CoderDojoすぎなみでは、アイスブレイクのときにアンプラグ�
 * [Progate](https://prog-8.com/)・[CodeMonkey](http://codemonkey.jp/)・[CODE COMBAT](https://codecombat.com/)・[paiza](https://paiza.jp/)・[ドットインストール](http://dotinstall.com/)などを参考にして、基本的な知識を身に付けましょう。
 * [あそべるプログラミング HackforPlay](https://hackforplay.xyz/)も楽しいかもしれません。
 * 動くものを手軽に作りたいときは[Processing](https://processing.org/)がオススメです。
+* iPadを持参されたのであれば、プログラミングを学び始めることができるアップル純正のアプリ[Swift Playgrounds](http://ascii.jp/limit/group/ida/elem/000/001/520/1520274/)もオススメです。
 * プログラミングの本を読むのもいいでしょう。
 * 新しいことをやってみたいときや、作りたいものがあるけどやり方がわからない場合は、メンターと相談してください。
 
