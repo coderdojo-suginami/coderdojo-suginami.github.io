@@ -66,4 +66,4 @@ Students: Try Now!](https://www.cs-first.com/en/home) ※英語
 
 * TBD - 自己紹介シート
 * TBD - 名札シート
-* TBD - 発表シート
+* [発表シート](ywt.pdf)
