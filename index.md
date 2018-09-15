@@ -25,10 +25,14 @@ layout: default
     <h2>次回開催</h2>
 	{% include event_list.html %}
 
+	<h2>会場の募集</h2>
+<p>杉並区内で開催できる会場（飲食自由な場所）を探しています。無償でお貸しいただける場合は、<a href="https://coderdojo-suginami.doorkeeper.jp/contact/new">こちらよりご連絡</a>ください。</p>
+<p>▼会場にあると嬉しいもの（すべて揃っている必要はありません）：WiFi、電源、電源タップ、机・椅子、プロジェクタ</p>
+
     <h2>関連リンク</h2>
 	<ul>
 	<li><a href="https://coderdojo-suginami.doorkeeper.jp">Doorkeeper</a>（メンバー登録すると開催通知が届きます）</li>
-	<li><a href="https://zen.coderdojo.com/dojo/jp/suginami-tokyo/suginami">CoderDojo suginami</a>（CoderDojoすぎなみの紹介ページ）</li>
+	<li><a href="https://zen.coderdojo.com/dojo/jp/suginami-tokyo/suginami">CoderDojo suginami</a>（「CoderDojoすぎなみ」の紹介ページ）</li>
 	</ul>
   </div>
 
