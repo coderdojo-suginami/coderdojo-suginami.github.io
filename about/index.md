@@ -11,23 +11,6 @@ order: 1
 
 CoderDojoは、これからプログラミング言語を習得することの重要性が高まること、若いうちからこうしたスキルを効率的・効果的に学ぶことが可能であること、誰にも否定されずに学ぶ機会を得られるべきであることを信じています。
 
-
-# 道場主（主催者）
-
-<div class="row">
-  {% for c in site.data.champions %}
-  <div class="col-md-6">
-    <div class="thumbnail">
-      <img src="{{ c.photo }}" alt="{{ c.name }}">
-      <div class="caption">
-        <h2>{{ c.name }}（{{ c.kana }}）{{ c.id }}</h2>
-        <p>{{ c.profile }}</p>
-      </div>
-    </div>
-  </div>
-  {% endfor %}
-</div>
-
 # 道場の場所
 
 ## メイン道場
@@ -88,7 +71,7 @@ TBD（杉並区の地域区民センターを使う予定です）
 
 <div class="row">
 <div class="col-md-4"><div class="panel panel-success">
-  <div class="panel-heading">1. はじめに（15分間）</div>
+  <div class="panel-heading">1. はじめに（5分間）</div>
   <div class="panel-body">アイスブレイク（<a href="http://kata.coderdojo.com/wiki/Warm_up_Games">Warm up Games</a>）</div>
 </div></div>
 <div class="col-md-4"><div class="panel panel-success">

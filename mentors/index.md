@@ -24,11 +24,18 @@ http://www.slideshare.net/togazo/dojo1150528/12
 
 ## メンターの紹介
 
-<div class="row">
-  {% for c in site.data.champions %}
-  <div class="col-md-6">
+<style>
+.row-height {
+    display: flex;
+    flex-wrap: wrap;
+}
+</style>
+
+<div class="row row-height">
+  {% for c in site.data.mentors %}
+  <div class="col-md-4">
     <div class="thumbnail">
-      <img src="{{ c.photo }}" alt="{{ c.name }}">
+      <img src="{{ c.photo }}" alt="{{ c.name }}" class="img-circle">
       <div class="caption">
         <h2>{{ c.name }}（{{ c.kana }}）{{ c.id }}</h2>
         <p>{{ c.profile }}</p>
@@ -37,25 +44,6 @@ http://www.slideshare.net/togazo/dojo1150528/12
   </div>
   {% endfor %}
 </div>
-
-{% for m in site.data.mentors %}
-{% assign colIndex = forloop.index | modulo:2  %}
-{% if forloop.first or colIndex == 1 %}
-<div class="row row-eq-height">
-{% endif %}
-  <div class="col-md-6">
-    <div class="thumbnail">
-      <img src="{{ m.photo }}" alt="{{ m.name }}">
-      <div class="caption">
-        <h2>{{ m.name }}（{{ m.kana }}）{{ m.id }}</h2>
-        <p>{{ m.profile }}</p>
-      </div>
-    </div>
-  </div>
-{% if forloop.last or colIndex == 0 %}
-</div>
-{% endif %}
-{% endfor %}
 
 <div class="alert alert-danger" role="alert">
 ※メンターになるには、既存のメンターからの推薦が必要です。
