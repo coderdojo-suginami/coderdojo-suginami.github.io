@@ -38,6 +38,7 @@ CoderDojoすぎなみでは、アイスブレイクのときにアンプラグ�
 ## 3. プログラミングを本格的にやってみたい場合
 
 * [Progate](https://prog-8.com/)・[CodeMonkey](http://codemonkey.jp/)・[CODE COMBAT](https://codecombat.com/)・[paiza](https://paiza.jp/)・[ドットインストール](http://dotinstall.com/)などを参考にして、基本的な知識を身に付けましょう。
+  * 株式会社Progateのご厚意で、Progateの有料会員プランが使用できます。希望者はメンターまでお問い合わせください。
 * [あそべるプログラミング HackforPlay](https://hackforplay.xyz/)も楽しいかもしれません。
 * 動くものを手軽に作りたいときは[Processing](https://processing.org/)がオススメです。
 * iPadを持参されたのであれば、プログラミングを学び始めることができるアップル純正のアプリ[Swift Playgrounds](http://ascii.jp/limit/group/ida/elem/000/001/520/1520274/)もオススメです。
