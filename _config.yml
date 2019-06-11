@@ -11,7 +11,7 @@ email: info@coderdojo-suginami.doorkeeper.jp
 description:
   杉並区にある子どもたちのためのプログラミング倶楽部です。参加費は無料。プログラミング教室ではなく「自主学習」を支援します。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://coderdojo-suginami.github.io" # the base hostname & protocol for your site
+url: "https://coderdojo-suginami.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
