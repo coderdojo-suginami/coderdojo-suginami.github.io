@@ -1,3 +1,2 @@
-source 'https://rubygems.org'
-gem 'github-pages'
-gem 'json', github: 'flori/json', branch: 'v1.8' # work around
+source "https://rubygems.org"
+gem "github-pages", group: :jekyll_plugins
