@@ -1,9 +1,9 @@
 <h2>参加者の声</h2>
 
-<div class="row">
-{% for image in page.children %}
-<div class="col-md-4">
-<a href="/images/enq/{{ page.date | date: "%Y%m%d" }}/{{ image }}"><img src="/images/enq/{{ page.date | date: "%Y%m%d" }}/{{ image }}" /></a>
+<div class="row row-eq-height">
+  {% for image in page.children %}
+  <div class="col-md-4">
+    <a href="/images/enq/{{ page.date | date: "%Y%m%d" }}/{{ image }}" class="thumbnail"><img src="/images/enq/{{ page.date | date: "%Y%m%d" }}/{{ image }}" /></a>
 </div>
 {% endfor %}
 </div>

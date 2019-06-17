@@ -271,3 +271,8 @@ pre {
   pre code, pre tt {
     background-color: transparent;
     border: none; }
+
+.row-eq-height {
+    display: flex;
+    flex-wrap: wrap;
+}
