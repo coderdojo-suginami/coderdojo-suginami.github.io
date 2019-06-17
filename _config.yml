@@ -15,7 +15,7 @@ url: "https://coderdojo-suginami.github.io" # the base hostname & protocol for y
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-permalink: /blog/:year/:month/:day/
+permalink: /log/:year/:month/:day/
 timezone: Asia/Tokyo
 
 # Build settings
