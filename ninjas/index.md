@@ -1,7 +1,7 @@
 ---
 layout: page
 group: navigation
-title: <span class="glyphicon glyphicon-user" />ニンジャ
+title: 🥷ニンジャ
 order: 2
 ---
 
@@ -13,7 +13,7 @@ order: 2
 
 12歳以下は保護者の同伴が必要になるため、以下のように区分しています。
 
-<div class="alert alert-warning pull-right" role="alert">
+<div class="alert alert-warning float-end" role="alert">
 お気づきの方もいるだろうが、<br />
 『ニンジャスレイヤー』からの拝借だ。
 </div>
@@ -51,14 +51,14 @@ order: 2
 ## 参加者の感想（一部抜粋）
 
 <div class="row">
-   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja01.jpg"></a></div>
-   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja03.jpg"></a></div>
-   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja04.jpg"></a></div>
-   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja05.jpg"></a></div>
-   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja07.jpg"></a></div>
-   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja08.jpg"></a></div>
-   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja02.jpg"></a></div>
-   <div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja06.jpg"></a></div>
+   <div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja01.jpg" class="img-thumbnail"></a></div>
+   <div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja03.jpg" class="img-thumbnail"></a></div>
+   <div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja04.jpg" class="img-thumbnail"></a></div>
+   <div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja05.jpg" class="img-thumbnail"></a></div>
+   <div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja07.jpg" class="img-thumbnail"></a></div>
+   <div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja08.jpg" class="img-thumbnail"></a></div>
+   <div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja02.jpg" class="img-thumbnail"></a></div>
+   <div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/ninja/ninja06.jpg" class="img-thumbnail"></a></div>
 </div>
 
 
@@ -66,21 +66,21 @@ order: 2
 
 <div class="row">
 
-<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents01.jpg"></a></div>
+<div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents01.jpg" class="img-thumbnail"></a></div>
 
-<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents02.jpg"></a></div>
+<div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents02.jpg" class="img-thumbnail"></a></div>
 
-<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents03.jpg"></a></div>
+<div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents03.jpg" class="img-thumbnail"></a></div>
 
-<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents04.jpg"></a></div>
+<div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents04.jpg" class="img-thumbnail"></a></div>
 
-<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents05.jpg"></a></div>
+<div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents05.jpg" class="img-thumbnail"></a></div>
 
-<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents06.jpg"></a></div>
+<div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents06.jpg" class="img-thumbnail"></a></div>
 
-<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents07.jpg"></a></div>
+<div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents07.jpg" class="img-thumbnail"></a></div>
 
-<div class="col-md-4"><a href="#" class="thumbnail"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents08.jpg"></a></div>
+<div class="col-md-4"><a href="#"><img src="https://coderdojo-suginami.github.io/images/testimonial/parents/parents08.jpg" class="img-thumbnail"></a></div>
 
 </div>
 

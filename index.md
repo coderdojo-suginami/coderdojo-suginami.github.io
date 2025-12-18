@@ -10,7 +10,7 @@ layout: default
 //-->
 </style>
 
-<div class="jumbotron text-center">
+<div class="jumbotron text-center py-5">
   <img src="/images/logo_namisuke.png" alt="CoderDojo Suginami logo" />
   <p>
   杉並区にある子どもたちのための <br />
@@ -50,16 +50,16 @@ layout: default
 
 <div class="row">
   <div class="col-md-4">
-    <h2><span class="glyphicon glyphicon-user" />ニンジャ</h2>
-	<p>コーダー道場では、参加者のことを「ニンジャ」と呼ぶのじゃ。<a href="/ninjas/"><span class="glyphicon glyphicon-share-alt" /></a></p>
+    <h2>🥷ニンジャ</h2>
+	<p>コーダー道場では、参加者のことを「ニンジャ」と呼ぶのじゃ。<a href="/ninjas/">➡️</a></p>
   </div>
   <div class="col-md-4">
-    <h2><span class="glyphicon glyphicon-eye-open" />メンター</h2>
-	<p>ニンジャのガイド役となり、やりたいことや困っていることを支援します。<a href="/mentors/"><span class="glyphicon glyphicon-share-alt" /></a></p>
+    <h2>👨‍🏫メンター</h2>
+	<p>ニンジャのガイド役となり、やりたいことや困っていることを支援します。<a href="/mentors/">➡️</a></p>
   </div>
   <div class="col-md-4">
-    <h2><span class="glyphicon glyphicon-heart-empty" />支援のお願い</h2>
-	<p>活動に賛同いただける個人や法人のみなさまには、ご支援をお願いしています。<a href="/sponsorship/"><span class="glyphicon glyphicon-share-alt" /></a></p>
+    <h2>🙏支援のお願い</h2>
+	<p>活動に賛同いただける個人や法人のみなさまには、ご支援をお願いしています。<a href="/sponsorship/">➡️</a></p>
   </div>
 
 </div> <!-- /div.row -->

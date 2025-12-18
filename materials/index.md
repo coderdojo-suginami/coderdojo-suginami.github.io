@@ -1,7 +1,7 @@
 ---
 layout: page
 group: navigation
-title: <span class="glyphicon glyphicon-book" />教材
+title: 📚教材
 order: 99
 ---
 

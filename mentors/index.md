@@ -1,7 +1,7 @@
 ---
 layout: page
 group: navigation
-title: <span class="glyphicon glyphicon-eye-open" />メンター
+title: 👨‍🏫メンター
 order: 3
 ---
 
@@ -34,11 +34,11 @@ http://www.slideshare.net/togazo/dojo1150528/12
 <div class="row row-height">
   {% for c in site.data.mentors %}
   <div class="col-md-4">
-    <div class="thumbnail">
-      <img src="{{ c.photo }}" alt="{{ c.name }}" class="img-circle">
-      <div class="caption">
-        <h2>{{ c.name }}（{{ c.kana }}）{{ c.id }}</h2>
-        <p>{{ c.profile }}</p>
+    <div class="card h-100">
+      <img src="{{ c.photo }}" alt="{{ c.name }}" class="card-img-top rounded-circle w-50 mx-auto mt-3">
+      <div class="card-body text-center">
+        <h5 class="card-title">{{ c.name }}（{{ c.kana }}）{{ c.id }}</h5>
+        <p class="card-text">{{ c.profile }}</p>
       </div>
     </div>
   </div>
