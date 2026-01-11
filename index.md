@@ -22,14 +22,27 @@ layout: default
 
 <div class="row">
   <div class="col-md-8">
-    <h2>次回開催</h2>
-	{% include event_list.html %}
+
+{% assign now = site.time | date: "%s" %}
+
+<h2>次回開催</h2>
+<ul>
+{% for post in site.posts %}
+  {% assign post_time = post.date | date: "%s" %}
+  {% if post_time > now %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>（{{ post.date | date: "%Y-%m-%d" }}）</li>
+  {% endif %}
+{% endfor %}
+</ul>
 
 <h2>過去の開催</h2>
 <ul>
-  {% for post in site.posts %}
+{% for post in site.posts %}
+  {% assign post_time = post.date | date: "%s" %}
+  {% if post_time <= now %}
     <li><a href="{{ post.url }}">{{ post.title }}</a>（{{ post.date | date: "%Y-%m-%d" }}）</li>
-  {% endfor %}
+  {% endif %}
+{% endfor %}
 </ul>
 
 <!-- <h2>会場の募集</h2>
