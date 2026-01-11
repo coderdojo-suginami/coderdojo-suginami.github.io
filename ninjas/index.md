@@ -36,10 +36,6 @@ order: 2
 
 事前に以下の <a href="https://coderdojo-suginami.doorkeeper.jp">Doorkeeper</a> よりお申し込みください。
 
-### 今後の開催スケジュール
-
-{% include event_list.html %}
-
 ## 教材について
 
 使用する教材の指定はありませんが、[使えそうな教材を集めてみました](/materials)。レベルにあわせて選ぶといいでしょう。
