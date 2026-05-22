@@ -58,10 +58,6 @@ http://www.slideshare.net/togazo/dojo1150528/12
 * ニンジャには、技術そのものよりも、技術を通じて何かを学んでもらえるようにします。
 * あとで役に立つように、うまくいったパターンをまとめて、メンター同士で共有します。
 
-## メンター同士の連絡方法
-
-* [Facebookグループ](https://www.facebook.com/groups/coderdojosuginamimentors/)とGitHubの[issues](https://github.com/coderdojo-suginami/coderdojo-suginami.github.io/issues/)でやりとりします。
-
 ## 教材の選定 and/or 制作
 * 何かいい教材があれば、情報共有しましょう。
   * [バッジ](https://zen.coderdojo.com/badges)をあげられる教材カードを先に翻訳するといいかも？
