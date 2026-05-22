@@ -64,41 +64,7 @@ TBD（杉並区の地域区民センターを使う予定です）
 * 他の人にマネしてもらう
 * （随時追加予定）
 
-➡️参考：[CoderDojo ECHO (English)](http://kata.coderdojo.com/wiki/ECHO)
-
-
-# 標準的な流れ
-
-<div class="row">
-<div class="col-md-4">
-  <div class="card h-100 mb-3">
-    <div class="card-header bg-success text-white">1. はじめに（5分間）</div>
-    <div class="card-body">
-      <p class="card-text">アイスブレイク（<a href="http://kata.coderdojo.com/wiki/Warm_up_Games">Warm up Games</a>）</p>
-    </div>
-  </div>
-</div>
-<div class="col-md-4">
-  <div class="card h-100 mb-3">
-    <div class="card-header bg-success text-white">2. 稽古（50分間）✕ 2〜3回</div>
-    <div class="card-body">
-      <p class="card-text">プログラミング<br />適宜休憩</p>
-    </div>
-  </div>
-</div>
-<div class="col-md-4">
-  <div class="card h-100 mb-3">
-    <div class="card-header bg-success text-white">3. 成果発表（30分間）</div>
-    <div class="card-body">
-      <p class="card-text">
-        1. やったこと<br />
-        2. わかったこと<br />
-        3. 次にやりたいこと
-      </p>
-    </div>
-  </div>
-</div>
-</div>
+➡️参考：[CoderDojo ECHO (English)](https://github.com/CoderDojo/kata-archive/blob/master/files/CoderDojo-ECHO.pdf)
 
 
 # 主に保護者の方へ
