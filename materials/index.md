@@ -12,8 +12,6 @@ order: 99
 
 ## 0. コンピュータを使わないプログラミング
 
-CoderDojoすぎなみでは、アイスブレイクのときにアンプラグドなエクササイズを実施します。
-
 * [コンピュータを使わない情報教育アンプラグドコンピュータサイエンス](https://www.amazon.co.jp/dp/490401300X/)
 * [ルビィのぼうけん こんにちは! プログラミング](https://www.amazon.co.jp/dp/4798143499/)
 * [CS Fundamentals Unplugged](https://code.org/curriculum/unplugged) ※英語
